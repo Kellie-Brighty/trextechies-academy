@@ -1,4 +1,4 @@
-import { type ReactNode } from 'react';
+
 import { Calendar, Clock, User, Video } from 'lucide-react';
 import type { Meeting } from '../types/meeting';
 

@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 import StudentLayout from '../../layouts/StudentLayout';
 import { currentUser, mockRequests } from '../../data/mockData';
-import { Plus, Clock, CheckCircle, AlertCircle, PlayCircle } from 'lucide-react';
+import { Plus, Clock, CheckCircle, PlayCircle } from 'lucide-react';
 
 const statusConfig = {
   pending: {
