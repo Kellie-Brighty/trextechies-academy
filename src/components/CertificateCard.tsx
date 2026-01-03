@@ -16,7 +16,6 @@ export default function CertificateCard({ certificate, onDownload, onShare }: Ce
           <Award className="w-10 h-10 text-primary-600 relative z-10" />
           <div className="absolute top-0 right-0 w-8 h-8 bg-primary-200 opacity-20 transform rotate-45 translate-x-4 -translate-y-4" />
         </div>
-
         {/* Certificate Details */}
         <div className="flex-1">
           <div className="flex items-start justify-between mb-2">
