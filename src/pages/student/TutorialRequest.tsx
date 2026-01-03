@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import StudentLayout from '../../layouts/StudentLayout';
-import { currentUser } from '../../data/mockData';
 import {
   ArrowLeft,
   ArrowRight,

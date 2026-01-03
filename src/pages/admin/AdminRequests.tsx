@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import AdminLayout from '../../layouts/AdminLayout';
 import { mockRequests } from '../../data/mockData';
-import { Search, Filter, Clock, CheckCircle, PlayCircle, Eye } from 'lucide-react';
+import { Search, Clock, CheckCircle, PlayCircle, Eye } from 'lucide-react';
 
 type StatusFilter = 'all' | 'pending' | 'approved' | 'in-progress' | 'completed';
 
