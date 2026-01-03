@@ -1,5 +1,5 @@
 import AdminLayout from '../../layouts/AdminLayout';
-import { Settings, Shield, Bell, Globe, Mail, Save } from 'lucide-react';
+import { Settings, Shield, Bell, Save } from 'lucide-react';
 
 export default function AdminSettings() {
   return (
